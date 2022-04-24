@@ -16,14 +16,14 @@ finished or still in progress. Links to the individual projects can be found her
 Finished:
 - [x] Simple Flashlight ✔️
 
-Work in progress:
-- [ ] Prusa Printer i3 MK3 swiveling Light (WIP) 🔨
-- [ ] Mobile Chessclock (WIP)  🔨
-- [ ] Motorized Telescope (WIP)  🔨
+Work in progress (WIP): 🔨
+- [ ] Prusa Printer i3 MK3 swiveling Light
+- [ ] Mobile Chessclock
+- [ ] Motorized Telescope 
 
-discontinued:
-- [ ] MatLight Library https://github.com/HanSur94/MatLight
-- [ ] 3DExactRaytracing https://github.com/HanSur94/3DexactRaytracing
+Discontinued:
+- MatLight Library https://github.com/HanSur94/MatLight
+- 3DExactRaytracing https://github.com/HanSur94/3DexactRaytracing
 
 
 <!---
