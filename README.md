@@ -12,7 +12,11 @@ finished or still in progress. Links to the individual projects can be found her
 
 
 <!--  Make a list of some of my projects that ia m currently working on  -->
-
+[?] MatLight Library (discontinued) (https://github.com/HanSur94/MatLight)
+[x] Simple Flashlight
+[x] Prusa Printer i3 MK3 swiveling Light
+[ ] Mobile Chessclock
+[ ] Motorized Telescope
 
 
 <!---
