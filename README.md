@@ -1,6 +1,6 @@
 ## Hello and Welcome 👋 ##
 
-My name is Hannes and I have an background in engineering and science.
+My name is Hannes and I have an background in engineering and science 👨‍🔬.
 I like to tinker around with various projects involving 3D printing,
 3D CAD (Fusion 360) 🛠️ , electrical engineering 🔌 ,
 programming (Matlab, Python and C) ⌨️ and other intereseting things 🔦 🔭 ♟️. 
@@ -12,11 +12,18 @@ finished or still in progress. Links to the individual projects can be found her
 
 
 <!--  Make a list of some of my projects that ia m currently working on  -->
-[?] MatLight Library (discontinued) (https://github.com/HanSur94/MatLight)
-[x] Simple Flashlight
-[x] Prusa Printer i3 MK3 swiveling Light
-[ ] Mobile Chessclock
-[ ] Motorized Telescope
+
+Finished:
+- [x] Simple Flashlight ✔️
+
+Work in progress:
+- [ ] Prusa Printer i3 MK3 swiveling Light (WIP) 🔨
+- [ ] Mobile Chessclock (WIP)  🔨
+- [ ] Motorized Telescope (WIP)  🔨
+
+discontinued:
+- [ ] MatLight Library https://github.com/HanSur94/MatLight
+- [ ] 3DExactRaytracing https://github.com/HanSur94/3DexactRaytracing
 
 
 <!---
