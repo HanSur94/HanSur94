@@ -21,6 +21,7 @@ Work in progress (WIP): 🔨
 - [ ] Prusa Printer i3 MK3 swiveling Light
 - [ ] Mobile Chessclock
 - [ ] Motorized Telescope 
+- [ ] ARTNet - CNN for artwork classification
 
 Discontinued:
 - MatLight Library https://github.com/HanSur94/MatLight
