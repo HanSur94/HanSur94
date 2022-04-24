@@ -13,8 +13,9 @@ finished or still in progress. Links to the individual projects can be found her
 
 <!--  Make a list of some of my projects that ia m currently working on  -->
 
-Finished:
-- [x] Simple Flashlight ✔️
+Finished: ✔️
+- [x] Wintech6500 Custom DLP Library https://github.com/HanSur94/Wintech6500_Custom
+- [x] Simple Flashlight 
 
 Work in progress (WIP): 🔨
 - [ ] Prusa Printer i3 MK3 swiveling Light
