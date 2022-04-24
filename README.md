@@ -14,7 +14,7 @@ finished or still in progress. Links to the individual projects can be found her
 <!--  Make a list of some of my projects that ia m currently working on  -->
 
 Finished: ✔️
-- [x] Wintech6500 Custom DLP Library https://github.com/HanSur94/Wintech6500_Custom
+- [x] [Wintech6500 Custom DLP Library](https://github.com/HanSur94/Wintech6500_Custom)
 - [x] Simple Flashlight 
 
 Work in progress (WIP): 🔨
@@ -24,8 +24,8 @@ Work in progress (WIP): 🔨
 - [ ] ARTNet - CNN for artwork classification
 
 Discontinued:
-- MatLight Library https://github.com/HanSur94/MatLight
-- 3DExactRaytracing https://github.com/HanSur94/3DexactRaytracing
+- [MatLight Library](https://github.com/HanSur94/MatLight)
+- [3DExactRaytracing](https://github.com/HanSur94/3DexactRaytracing)
 
 
 <!---
