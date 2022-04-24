@@ -1,4 +1,4 @@
-## Hello and Welcome ##
+## Hello and Welcome 👋 ##
 
 My name is Hannes and I have an background in engineering and science.
 I like to tinker around with various projects involving 3D printing,
