@@ -16,7 +16,7 @@ finished or still in progress. Links to the individual projects can be found her
 Finished ✅:
 - [x] [Wintech6500 Custom DLP Library](https://github.com/HanSur94/Wintech6500_Custom)
 - [x] Simple Flashlight 
-- [x] ARTNet - CNN for artwork classification
+- [x] [ARTNet - CNN for artwork classification](https://github.com/HanSur94/ARTNet)
 
 Work in progress (WIP) 🔨: 
 - [ ] Prusa Printer i3 MK3 swiveling Light
