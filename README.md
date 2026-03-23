@@ -1,35 +1,80 @@
-## Hello and Welcome 👋 ##
+<h1 align="center">Hi, I'm Hannes Suhr</h1>
 
-My name is Hannes and I have an background in engineering and science 👨‍🔬.
-I like to tinker around with various projects involving 3D printing,
-3D CAD (Fusion 360) 🛠️ , electrical engineering 🔌 ,
-programming (Matlab, Python and C) ⌨️ and other intereseting things 🔦 🔭 ♟️. 
+<p align="center">
+  <strong>Semiconductor & Lithography Engineer | Photonics | Maker | Software Builder</strong>
+</p>
 
-<!--  Put some badges her if possibel  -->
+<p align="center">
+  <a href="https://github.com/HanSur94?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-15-blue?style=flat-square&logo=github" alt="Repos"/>
+  </a>
+  <a href="https://github.com/HanSur94?tab=followers">
+    <img src="https://img.shields.io/github/followers/HanSur94?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/HanSur94?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-4-yellow?style=flat-square&logo=github" alt="Stars"/>
+  </a>
+</p>
 
-Here on Github you can checkout a small collection of my projects which are either
-finished or still in progress. Links to the individual projects can be found here:
+---
 
+### About Me
 
-<!--  Make a list of some of my projects that ia m currently working on  -->
+I work in the **semiconductor / lithography industry**, building the systems that push the boundaries of chip manufacturing.
 
-Finished ✅:
-- [x] [Wintech6500 Custom DLP Library](https://github.com/HanSur94/Wintech6500_Custom)
-- [x] Simple Flashlight 
-- [x] [ARTNet - CNN for artwork classification](https://github.com/HanSur94/ARTNet)
-- [x] [Smart Home Environment Logger](https://github.com/HanSur94/SmartHomeEnvironmentLogger)
+My background is in **Laser Technology & Optoelectronics** (B.Sc.) and **Applied Photonics** (M.Sc.) from Aalen University, Germany. I bring that physics-first mindset to everything I build — whether it's optical simulation software, AI-powered tools, or hardware projects on one of my **3 3D printers**.
 
-Work in progress (WIP) 🔨: 
-- [ ] Prusa Printer i3 MK3 swiveling Light
-- [ ] Mobile Chessclock
-- [ ] Motorized Telescope 
+I'm passionate about writing software that bridges the gap between complex engineering domains and practical, usable tools.
 
-Discontinued 🛑:
-- [MatLight Library](https://github.com/HanSur94/MatLight)
-- [3DExactRaytracing](https://github.com/HanSur94/3DexactRaytracing)
+---
 
+### Tech Stack
 
-<!---
-HanSur94/HanSur94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=prusa&logoColor=white" alt="3D Printing"/>
+  <img src="https://img.shields.io/badge/Optics_&_Photonics-8B5CF6?style=for-the-badge" alt="Optics"/>
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**matlab-mcp-server-python**](https://github.com/HanSur94/matlab-mcp-server-python) | MCP server connecting AI agents to MATLAB — execute code, async jobs, interactive Plotly plots | `Python` `MCP` `AI` |
+| [**FastSense**](https://github.com/HanSur94/FastSense) | Sensor monitoring & dashboarding for MATLAB/Octave — plot 100M+ data points at 200+ FPS | `MATLAB` `Visualization` |
+| [**ARTNet**](https://github.com/HanSur94/ARTNet) | Convolutional neural network for classifying artwork by artist | `Python` `Deep Learning` |
+| [**Wintech6500_Custom**](https://github.com/HanSur94/Wintech6500_Custom) | Python library for controlling Wintech DLP6500 spatial light modulators | `Python` `Hardware` |
+| [**MatLight**](https://github.com/HanSur94/MatLight) | MATLAB library for simulating LEDs, lasers, and optical radiation | `MATLAB` `Simulation` |
+| [**3DexactRaytracing**](https://github.com/HanSur94/3DexactRaytracing) | Exact 3D geometric raytracer for optical system design | `MATLAB` `Optics` |
+| [**SmartHomeEnvironmentLogger**](https://github.com/HanSur94/SmartHomeEnvironmentLogger) | IoT environment monitoring system for smart homes | `IoT` `Hardware` |
+| [**lightburn_udp_pcb_pipeline**](https://github.com/HanSur94/lightburn_udp_pcb_pipeline) | Automated PCB production pipeline using LightBurn laser software | `Python` `Automation` |
+
+---
+
+### Maker Corner
+
+When I'm not writing code, I'm designing and printing on my 3 Prusa 3D printers — from functional parts and custom enclosures to full project builds like a motorized telescope mount and a swiveling printer light.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanSur94&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSur94&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaborations on optics tooling, MCP servers, and anything that bridges hardware and software.</i>
+</p>
