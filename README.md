@@ -51,7 +51,7 @@ I'm passionate about writing software that bridges the gap between complex engin
 |---------|-------------|------|
 | [**matlab-mcp-server-python**](https://github.com/HanSur94/matlab-mcp-server-python) | MCP server connecting AI agents to MATLAB — execute code, async jobs, interactive Plotly plots | `Python` `MCP` `AI` |
 | [**FastSense**](https://github.com/HanSur94/FastSense) | Sensor monitoring & dashboarding for MATLAB/Octave — plot 100M+ data points at 200+ FPS | `MATLAB` `Visualization` |
-| [**ARTNet**](https://github.com/HanSur94/ARTNet) | Convolutional neural network for classifying artwork by artist | `Python` `Deep Learning` |
+| [**ARTNet**](https://github.com/HanSur94/ARTNet) | Convolutional neural network for classifying artwork by artist | `MATLAB` `Deep Learning` |
 | [**Wintech6500_Custom**](https://github.com/HanSur94/Wintech6500_Custom) | Python library for controlling Wintech DLP6500 spatial light modulators | `Python` `Hardware` |
 | [**MatLight**](https://github.com/HanSur94/MatLight) | MATLAB library for simulating LEDs, lasers, and optical radiation | `MATLAB` `Simulation` |
 | [**3DexactRaytracing**](https://github.com/HanSur94/3DexactRaytracing) | Exact 3D geometric raytracer for optical system design | `MATLAB` `Optics` |
