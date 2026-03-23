@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hannes Suhr</h1>
 
 <p align="center">
-  <strong>Semiconductor & Lithography Engineer | Photonics | Maker | Software Builder</strong>
+  <strong>Systems Metrology Engineer | Photonics | Maker | Software Builder</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### About Me
 
-I work in the **semiconductor / lithography industry**, building the systems that push the boundaries of chip manufacturing.
+I work as a Systems Metrology Engineer in the **semiconductor / lithography industry**.
 
 My background is in **Laser Technology & Optoelectronics** (B.Sc.) and **Applied Photonics** (M.Sc.) from Aalen University, Germany. I bring that physics-first mindset to everything I build — whether it's optical simulation software, AI-powered tools, or hardware projects on one of my **3 3D printers**.
 
